@@ -1,3 +1,7 @@
+// Package event is a package that handles event functions
+//
+//	Author: Elizalde G. Baguinon
+//	Created: December 6, 2020
 package event
 
 import (
